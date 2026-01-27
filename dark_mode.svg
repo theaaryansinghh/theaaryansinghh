@@ -21,7 +21,7 @@ text, tspan {white-space: pre;}
 text { line-height: 1.25; }
 </style>
 
-<rect width="985px" height="1100px" fill="#161b22" rx="15"/>
+<rect width="1300px" height="800px" fill="#161b22" rx="15"/>
 
 <g transform="translate(15,30) scale(1.15, 0.92)">
   <text x="0" y="0" fill="#c9d1d9">
@@ -68,9 +68,11 @@ text { line-height: 1.25; }
 <text x="600" y="30" fill="#c9d1d9">
 
 <tspan x="600" y="30">aaryan@research</tspan> ------------------------------------------------------
-<tspan x="600" y="50" class="cc">. </tspan><tspan class="key">Field</tspan>: <tspan class="value">Network Geometry, Spectral Analysis</tspan>
-<tspan x="600" y="70" class="cc">. </tspan><tspan class="key">Role</tspan>: <tspan class="value">Undergraduate</tspan>
-<tspan x="600" y="90" class="cc">. </tspan><tspan class="key">Focus</tspan>: <tspan class="value">Theoretical Modeling, Graph Structure</tspan>
+
+<tspan x="600" y="50"  class="cc">. </tspan><tspan class="key">Field</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Network Geometry, Spectral Analysis</tspan>
+<tspan x="600" y="70"  class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Undergraduate</tspan>
+<tspan x="600" y="90"  class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Theoretical Modeling, Graph Structure</tspan>
+
 <tspan x="600" y="110" class="cc">. </tspan>
 
 <tspan x="600" y="130" class="cc">. </tspan><tspan class="key">Interests</tspan>.<tspan class="key">Research</tspan>:
@@ -82,32 +84,32 @@ text { line-height: 1.25; }
 <tspan x="600" y="230" class="cc">. </tspan>
 
 <tspan x="600" y="250" class="cc">. </tspan><tspan class="key">Projects</tspan>.<tspan class="key">Selected</tspan>:
-<tspan x="600" y="270" class="cc">  - </tspan><tspan class="value">Graphity discussion platform (vanilla JS)</tspan>
-<tspan x="600" y="290" class="cc">  - </tspan><tspan class="value">SwachhRohtak civic-tech system (Flask backend)</tspan>
-<tspan x="600" y="310" class="cc">  - </tspan><tspan class="value">IPEPS ecological intelligence system</tspan>
+<tspan x="600" y="270" class="cc">  - </tspan><tspan class="value">curiogen/Signatures-Induced-by-Network-geometry .... something crazy </tspan>
+<tspan x="600" y="290" class="cc">  - </tspan><tspan class="value">Graphity ........ graph generating platform (like desmos but worse) </tspan>
+<tspan x="600" y="310" class="cc">  - </tspan><tspan class="value">SwachhRohtak ..... civic-tech system (we need it) </tspan>
+
 
 <tspan x="600" y="330" class="cc">. </tspan>
 
-<tspan x="600" y="350" class="cc">. </tspan><tspan class="key">Status</tspan>: <tspan class="value">Active research and project building</tspan>
+<tspan x="600" y="350" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Active research and project building</tspan>
 
 <tspan x="600" y="370" class="cc">. </tspan>
 
 <tspan x="600" y="390" class="cc">. </tspan><tspan class="key">Skills</tspan>:
 <tspan x="600" y="410" class="cc">  - </tspan><tspan class="value">Graph theory, linear algebra, probability</tspan>
-<tspan x="600" y="430" class="cc">  - </tspan><tspan class="value">Spectral methods, embeddings, curvature</tspan>
+<tspan x="600" y="430" class="cc">  - </tspan><tspan class="value">Complex Analysis, Discrete Mathematics, Hating myself</tspan>
 <tspan x="600" y="450" class="cc">  - </tspan><tspan class="value">Python, Flask, JS, scientific writing (LaTeX)</tspan>
 
 <tspan x="600" y="470" class="cc">. </tspan>
 
 <tspan x="600" y="490" class="cc">. </tspan><tspan class="key">Tools</tspan>:
-<tspan x="600" y="510" class="cc">  - </tspan><tspan class="value">NumPy, NetworkX, Matplotlib</tspan>
-<tspan x="600" y="530" class="cc">  - </tspan><tspan class="value">Git, Linux, Markdown, Jupyter</tspan>
-
-<tspan x="600" y="550" class="cc">. </tspan>
+<tspan x="600" y="510" class="cc">  - </tspan><tspan class="value">NetworkX, PyTorch Geometric, graph-tool, KarateClub, SciPy, pandas, Matplotlib </tspan>
+<tspan x="600" y="530" class="cc">  - </tspan><tspan class="value">Seaborn, scikit-learn</tspan>
+<tspan x="600" y="550" class="cc">  - </tspan><tspan class="value">Overthinking</tspan>
 
 <tspan x="600" y="570" class="cc">. </tspan><tspan class="key">Methods</tspan>:
-<tspan x="600" y="590" class="cc">  - </tspan><tspan class="value">Model analysis, theoretical derivation</tspan>
-<tspan x="600" y="610" class="cc">  - </tspan><tspan class="value">Synthetic vs empirical comparison</tspan>
+<tspan x="600" y="590" class="cc">  - </tspan><tspan class="value">Spectral Analysis, Graph Modeling, Theoretical Derivation, Model Validation</tspan>
+<tspan x="600" y="610" class="cc">  - </tspan><tspan class="value">Weakly Convincing</tspan>
 
 <tspan x="600" y="630" class="cc">. </tspan>
 
@@ -116,8 +118,7 @@ text { line-height: 1.25; }
 
 <tspan x="600" y="690" class="cc">. </tspan>
 
-<tspan x="600" y="710" class="cc">. </tspan><tspan class="key">Availability</tspan>: <tspan class="value">Open to research collaborations</tspan>
-
+<tspan x="600" y="710" class="cc">. </tspan><tspan class="key">Availability</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Open to research collaborations (not really)</tspan>
 </text>
 
 </svg>
