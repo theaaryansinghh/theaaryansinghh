@@ -74,7 +74,7 @@ text { line-height: 1.25; }
 <tspan x="15" y="970">                           == **+=+++*++*+*+*#*******+*+**                               </tspan>
 </text>
 
-<text x="420" y="30" fill="#c9d1d9">
+<text x="420" y="420" fill="#c9d1d9">
 <tspan x="420" y="30">aaryan@research</tspan> ------------------------------------------------------
 <tspan x="420" y="50" class="cc">. </tspan><tspan class="key">Field</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Network Geometry, Spectral Analysis</tspan>
 <tspan x="420" y="70" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Undergraduate</tspan>
