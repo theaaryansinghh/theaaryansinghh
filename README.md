@@ -1,16 +1,34 @@
-## Hi there 👋
+<p align="center">
+  <img src="profile.jpg" width="170" style="border-radius: 50%;" />
+</p>
 
-<!--
-**theaaryansinghh/theaaryansinghh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+aaryan@researcher
+-------------------------------
 
-Here are some ideas to get you started:
+OS: ....................... macOS, Linux
+Field: .................... Network Geometry, Spectral Analysis
+Focus: .................... Theoretical Modeling, Graph Structure
+Status: ................... Undergraduate Researcher
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests.Research:
+  - Hyperbolic networks and embeddings
+  - Spectral dimensionality in graph models
+  - Geometry of complex systems
+  - Mathematical foundations of ML
+
+Work.Current:
+  - Research internship on network geometry and spectral analysis
+  - Theoretical work on synthetic hyperbolic models
+  - Building research-driven systems and analytical tools
+
+Projects.Selected:
+  - Graphity ............. discussion web app (vanilla JS)
+  - SwachhRohtak ......... civic-tech platform (Flask backend)
+  - IPEPS ................ intelligent ecological system (SIH)
+
+GitHub.Stats:
+  Repos: dynamic
+  Commits: dynamic
+  Focus: research-grade projects
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true" /> </p>```
