@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg"
      font-family="ConsolasFallback,Consolas,monospace"
-     width="985px"
-     height="1100px"
-     viewBox="0 0 985 1100"
+     width="1300px"
+     height="800"
+     viewBox="0 0 1300 800"
      font-size="14px">
 
 <style>
@@ -67,39 +67,56 @@ text { line-height: 1.25; }
 
 <text x="600" y="30" fill="#c9d1d9">
 
-<tspan x="600" y="30"> </tspan>
-<tspan x="600" y="50"> </tspan>
-<tspan x="600" y="70"> </tspan>
-<tspan x="600" y="90"> </tspan>
-<tspan x="600" y="110"> </tspan>
-<tspan x="600" y="130"> </tspan>
-<tspan x="600" y="150"> </tspan>
-<tspan x="600" y="170"> </tspan>
-<tspan x="600" y="190"> </tspan>
-<tspan x="600" y="210"> </tspan>
+<tspan x="600" y="30">aaryan@research</tspan> ------------------------------------------------------
+<tspan x="600" y="50" class="cc">. </tspan><tspan class="key">Field</tspan>: <tspan class="value">Network Geometry, Spectral Analysis</tspan>
+<tspan x="600" y="70" class="cc">. </tspan><tspan class="key">Role</tspan>: <tspan class="value">Undergraduate</tspan>
+<tspan x="600" y="90" class="cc">. </tspan><tspan class="key">Focus</tspan>: <tspan class="value">Theoretical Modeling, Graph Structure</tspan>
+<tspan x="600" y="110" class="cc">. </tspan>
 
-<tspan x="600" y="230">aaryan@research</tspan> ------------------------------------------------------
-<tspan x="600" y="250" class="cc">. </tspan><tspan class="key">Field</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Network Geometry, Spectral Analysis</tspan>
-<tspan x="600" y="270" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Undergraduate</tspan>
-<tspan x="600" y="290" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Theoretical Modeling, Graph Structure</tspan>
-<tspan x="600" y="310" class="cc">. </tspan>
+<tspan x="600" y="130" class="cc">. </tspan><tspan class="key">Interests</tspan>.<tspan class="key">Research</tspan>:
+<tspan x="600" y="150" class="cc">  - </tspan><tspan class="value">Hyperbolic networks and embeddings</tspan>
+<tspan x="600" y="170" class="cc">  - </tspan><tspan class="value">Spectral dimensionality in graph models</tspan>
+<tspan x="600" y="190" class="cc">  - </tspan><tspan class="value">Geometry of complex systems</tspan>
+<tspan x="600" y="210" class="cc">  - </tspan><tspan class="value">Mathematical foundations of ML</tspan>
 
-<tspan x="600" y="330" class="cc">. </tspan><tspan class="key">Interests</tspan>.<tspan class="key">Research</tspan>:
-<tspan x="600" y="350" class="cc">  - </tspan><tspan class="value">Hyperbolic networks and embeddings</tspan>
-<tspan x="600" y="370" class="cc">  - </tspan><tspan class="value">Spectral dimensionality in graph models</tspan>
-<tspan x="600" y="390" class="cc">  - </tspan><tspan class="value">Geometry of complex systems</tspan>
-<tspan x="600" y="410" class="cc">  - </tspan><tspan class="value">Mathematical foundations of ML</tspan>
+<tspan x="600" y="230" class="cc">. </tspan>
 
-<tspan x="600" y="430" class="cc">. </tspan>
+<tspan x="600" y="250" class="cc">. </tspan><tspan class="key">Projects</tspan>.<tspan class="key">Selected</tspan>:
+<tspan x="600" y="270" class="cc">  - </tspan><tspan class="value">Graphity discussion platform (vanilla JS)</tspan>
+<tspan x="600" y="290" class="cc">  - </tspan><tspan class="value">SwachhRohtak civic-tech system (Flask backend)</tspan>
+<tspan x="600" y="310" class="cc">  - </tspan><tspan class="value">IPEPS ecological intelligence system</tspan>
 
-<tspan x="600" y="450" class="cc">. </tspan><tspan class="key">Projects</tspan>.<tspan class="key">Selected</tspan>:
-<tspan x="600" y="470" class="cc">  - </tspan><tspan class="value">Graphity ........ discussion platform (vanilla JS)</tspan>
-<tspan x="600" y="490" class="cc">  - </tspan><tspan class="value">SwachhRohtak ..... civic-tech system (Flask backend)</tspan>
-<tspan x="600" y="510" class="cc">  - </tspan><tspan class="value">IPEPS ............ ecological intelligence system</tspan>
+<tspan x="600" y="330" class="cc">. </tspan>
 
-<tspan x="600" y="530" class="cc">. </tspan>
+<tspan x="600" y="350" class="cc">. </tspan><tspan class="key">Status</tspan>: <tspan class="value">Active research and project building</tspan>
 
-<tspan x="600" y="550" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Active research and project building</tspan>
+<tspan x="600" y="370" class="cc">. </tspan>
+
+<tspan x="600" y="390" class="cc">. </tspan><tspan class="key">Skills</tspan>:
+<tspan x="600" y="410" class="cc">  - </tspan><tspan class="value">Graph theory, linear algebra, probability</tspan>
+<tspan x="600" y="430" class="cc">  - </tspan><tspan class="value">Spectral methods, embeddings, curvature</tspan>
+<tspan x="600" y="450" class="cc">  - </tspan><tspan class="value">Python, Flask, JS, scientific writing (LaTeX)</tspan>
+
+<tspan x="600" y="470" class="cc">. </tspan>
+
+<tspan x="600" y="490" class="cc">. </tspan><tspan class="key">Tools</tspan>:
+<tspan x="600" y="510" class="cc">  - </tspan><tspan class="value">NumPy, NetworkX, Matplotlib</tspan>
+<tspan x="600" y="530" class="cc">  - </tspan><tspan class="value">Git, Linux, Markdown, Jupyter</tspan>
+
+<tspan x="600" y="550" class="cc">. </tspan>
+
+<tspan x="600" y="570" class="cc">. </tspan><tspan class="key">Methods</tspan>:
+<tspan x="600" y="590" class="cc">  - </tspan><tspan class="value">Model analysis, theoretical derivation</tspan>
+<tspan x="600" y="610" class="cc">  - </tspan><tspan class="value">Synthetic vs empirical comparison</tspan>
+
+<tspan x="600" y="630" class="cc">. </tspan>
+
+<tspan x="600" y="650" class="cc">. </tspan><tspan class="key">Reading</tspan>:
+<tspan x="600" y="670" class="cc">  - </tspan><tspan class="value">Network Geometry, Complex Systems, ML theory</tspan>
+
+<tspan x="600" y="690" class="cc">. </tspan>
+
+<tspan x="600" y="710" class="cc">. </tspan><tspan class="key">Availability</tspan>: <tspan class="value">Open to research collaborations</tspan>
 
 </text>
 
