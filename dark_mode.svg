@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg"
+     font-family="ConsolasFallback,Consolas,monospace"
+     width="985px"
+     height="1100px"
+     viewBox="0 0 985 1100"
+     font-size="16px">
+
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -12,8 +18,10 @@ size-adjust: 109%;
 .value {fill: #a5d6ff;}
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
+text { line-height: 1.25; }
 </style>
-<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+
+<rect width="985px" height="1100px" fill="#161b22" rx="15"/>
 
 <text x="15" y="30" fill="#c9d1d9">
 <tspan x="15" y="30">                                           *+      *                                     </tspan>
@@ -66,24 +74,24 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="970">                           == **+=+++*++*+*+*#*******+*+**                               </tspan>
 </text>
 
-
-<text x="390" y="30" fill="#c9d1d9">
-<tspan x="390" y="30">aaryan@research</tspan> ------------------------------------------------------
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Field</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Network Geometry, Spectral Analysis</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Undergraduate</tspan>
-<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Theoretical Modeling, Graph Structure</tspan>
-<tspan x="390" y="110" class="cc">. </tspan>
-<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Interests</tspan>.<tspan class="key">Research</tspan>:
-<tspan x="390" y="150" class="cc">  - </tspan><tspan class="value">Hyperbolic networks and embeddings</tspan>
-<tspan x="390" y="170" class="cc">  - </tspan><tspan class="value">Spectral dimensionality in graph models</tspan>
-<tspan x="390" y="190" class="cc">  - </tspan><tspan class="value">Geometry of complex systems</tspan>
-<tspan x="390" y="210" class="cc">  - </tspan><tspan class="value">Mathematical foundations of ML</tspan>
-<tspan x="390" y="230" class="cc">. </tspan>
-<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Projects</tspan>.<tspan class="key">Selected</tspan>:
-<tspan x="390" y="270" class="cc">  - </tspan><tspan class="value">Graphity ........ discussion platform (vanilla JS)</tspan>
-<tspan x="390" y="290" class="cc">  - </tspan><tspan class="value">SwachhRohtak ..... civic-tech system (Flask backend)</tspan>
-<tspan x="390" y="310" class="cc">  - </tspan><tspan class="value">IPEPS ............ ecological intelligence system</tspan>
-<tspan x="390" y="330" class="cc">. </tspan>
-<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Active research and project building</tspan>
+<text x="420" y="30" fill="#c9d1d9">
+<tspan x="420" y="30">aaryan@research</tspan> ------------------------------------------------------
+<tspan x="420" y="50" class="cc">. </tspan><tspan class="key">Field</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Network Geometry, Spectral Analysis</tspan>
+<tspan x="420" y="70" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Undergraduate</tspan>
+<tspan x="420" y="90" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Theoretical Modeling, Graph Structure</tspan>
+<tspan x="420" y="110" class="cc">. </tspan>
+<tspan x="420" y="130" class="cc">. </tspan><tspan class="key">Interests</tspan>.<tspan class="key">Research</tspan>:
+<tspan x="420" y="150" class="cc">  - </tspan><tspan class="value">Hyperbolic networks and embeddings</tspan>
+<tspan x="420" y="170" class="cc">  - </tspan><tspan class="value">Spectral dimensionality in graph models</tspan>
+<tspan x="420" y="190" class="cc">  - </tspan><tspan class="value">Geometry of complex systems</tspan>
+<tspan x="420" y="210" class="cc">  - </tspan><tspan class="value">Mathematical foundations of ML</tspan>
+<tspan x="420" y="230" class="cc">. </tspan>
+<tspan x="420" y="250" class="cc">. </tspan><tspan class="key">Projects</tspan>.<tspan class="key">Selected</tspan>:
+<tspan x="420" y="270" class="cc">  - </tspan><tspan class="value">Graphity ........ discussion platform (vanilla JS)</tspan>
+<tspan x="420" y="290" class="cc">  - </tspan><tspan class="value">SwachhRohtak ..... civic-tech system (Flask backend)</tspan>
+<tspan x="420" y="310" class="cc">  - </tspan><tspan class="value">IPEPS ............ ecological intelligence system</tspan>
+<tspan x="420" y="330" class="cc">. </tspan>
+<tspan x="420" y="350" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Active research and project building</tspan>
 </text>
+
 </svg>
