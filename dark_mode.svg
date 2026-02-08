@@ -77,7 +77,7 @@ text { line-height: 1.25; }
 
 <tspan x="15" y="690" class="cc">. </tspan>
 
-<tspan x="15" y="710" class="cc">. </tspan><tspan class="key">Availability</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Open to research collaborations (not really)</tspan>
+<tspan x="15" y="710" class="cc">. </tspan><tspan class="key">Availability</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Open to research collaborations</tspan>
 </text>
 
 </svg>
