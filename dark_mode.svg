@@ -56,7 +56,7 @@ text { line-height: 1.25; }
 
 <tspan x="15" y="390" class="cc">. </tspan><tspan class="key">Skills</tspan>:
 <tspan x="15" y="410" class="cc">  - </tspan><tspan class="value">Graph theory, linear algebra, probability</tspan>
-<tspan x="15" y="430" class="cc">  - </tspan><tspan class="value">Complex Analysis, Discrete Mathematics, Hating myself</tspan>
+<tspan x="15" y="430" class="cc">  - </tspan><tspan class="value">Complex Analysis, Discrete Mathematics</tspan>
 <tspan x="15" y="450" class="cc">  - </tspan><tspan class="value">Python, Flask, JS, scientific writing (LaTeX)</tspan>
 
 <tspan x="15" y="470" class="cc">. </tspan>
@@ -66,18 +66,10 @@ text { line-height: 1.25; }
 <tspan x="15" y="530" class="cc">  - </tspan><tspan class="value">Seaborn, scikit-learn</tspan>
 <tspan x="15" y="550" class="cc">  - </tspan><tspan class="value">Overthinking</tspan>
 
-<tspan x="15" y="570" class="cc">. </tspan><tspan class="key">Methods</tspan>:
-<tspan x="15" y="590" class="cc">  - </tspan><tspan class="value">Spectral Analysis, Graph Modeling, Theoretical Derivation, Model Validation</tspan>
-<tspan x="15" y="610" class="cc">  - </tspan><tspan class="value">Weakly Convincing</tspan>
 
-<tspan x="15" y="630" class="cc">. </tspan>
+<tspan x="15" y="570" class="cc">. </tspan>
 
-<tspan x="15" y="650" class="cc">. </tspan><tspan class="key">Reading</tspan>:
-<tspan x="15" y="670" class="cc">  - </tspan><tspan class="value">Network Geometry, Complex Systems, ML theory</tspan>
-
-<tspan x="15" y="690" class="cc">. </tspan>
-
-<tspan x="15" y="710" class="cc">. </tspan><tspan class="key">Availability</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Open to research collaborations</tspan>
+<tspan x="15" y="590" class="cc">. </tspan><tspan class="key">Availability</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Open to research collaborations</tspan>
 </text>
 
 </svg>
