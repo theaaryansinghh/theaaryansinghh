@@ -2,8 +2,8 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      font-family="ConsolasFallback,Consolas,monospace"
      width="750px"
-     height="800"
-     viewBox="0 0 750 800"
+     height="650"
+     viewBox="0 0 750 650"
      font-size="14px">
 
 <style>
@@ -21,7 +21,7 @@ text, tspan {white-space: pre;}
 text { line-height: 1.25; }
 </style>
 
-<rect width="750px" height="800px" fill="#161b22" rx="15"/>
+<rect width="750px" height="650px" fill="#161b22" rx="15"/>
 
 
 <text x="15" y="30" fill="#c9d1d9">
